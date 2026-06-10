@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\\u041C\u0430\u0440\u0438\u043D\u0430\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\\u0423\u041F_\u041C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435  3\\zd3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18E77447-70AB-AABB-5470-62860CFD318C}|zd3.csproj|d:\\users\\\u043C\u0430\u0440\u0438\u043D\u0430\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435  3\\zd3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E77447-70AB-AABB-5470-62860CFD318C}|zd3.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E77447-70AB-AABB-5470-62860CFD318C}|zd3.csproj|d:\\users\\\u043C\u0430\u0440\u0438\u043D\u0430\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435  3\\zd3\\foodproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E77447-70AB-AABB-5470-62860CFD318C}|zd3.csproj|solutionrelative:foodproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E77447-70AB-AABB-5470-62860CFD318C}|zd3.csproj|d:\\users\\\u043C\u0430\u0440\u0438\u043D\u0430\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435  3\\zd3\\extendedfoodproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E77447-70AB-AABB-5470-62860CFD318C}|zd3.csproj|solutionrelative:extendedfoodproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E77447-70AB-AABB-5470-62860CFD318C}|zd3.csproj|d:\\users\\\u043C\u0430\u0440\u0438\u043D\u0430\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435  3\\zd3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18E77447-70AB-AABB-5470-62860CFD318C}|zd3.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\\u041C\u0430\u0440\u0438\u043D\u0430\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\\u0423\u041F_\u041C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 3\\Tests\\Test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Users\\\u041C\u0430\u0440\u0438\u043D\u0430\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\\u0423\u041F_\u041C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435  3\\zd3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\Users\\\u041C\u0430\u0440\u0438\u043D\u0430\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\\u0423\u041F_\u041C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435  3\\zd3\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-10T05:37:55.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Users\\\u041C\u0430\u0440\u0438\u043D\u0430\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\\u0423\u041F_\u041C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435  3\\zd3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\Users\\\u041C\u0430\u0440\u0438\u043D\u0430\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\\u0423\u041F_\u041C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435  3\\zd3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAEgBAAAAAAAAAAAswFIBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T05:37:48.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtendedFoodProduct.cs",
+              "DocumentMoniker": "D:\\Users\\\u041C\u0430\u0440\u0438\u043D\u0430\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\\u0423\u041F_\u041C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435  3\\zd3\\ExtendedFoodProduct.cs",
+              "RelativeDocumentMoniker": "ExtendedFoodProduct.cs",
+              "ToolTip": "D:\\Users\\\u041C\u0430\u0440\u0438\u043D\u0430\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\\u0423\u041F_\u041C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435  3\\zd3\\ExtendedFoodProduct.cs",
+              "RelativeToolTip": "ExtendedFoodProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T06:11:42.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoodProduct.cs",
+              "DocumentMoniker": "D:\\Users\\\u041C\u0430\u0440\u0438\u043D\u0430\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\\u0423\u041F_\u041C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435  3\\zd3\\FoodProduct.cs",
+              "RelativeDocumentMoniker": "FoodProduct.cs",
+              "ToolTip": "D:\\Users\\\u041C\u0430\u0440\u0438\u043D\u0430\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\\u0423\u041F_\u041C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435  3\\zd3\\FoodProduct.cs",
+              "RelativeToolTip": "FoodProduct.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAuwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T05:39:48.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "D:\\Users\\\u041C\u0430\u0440\u0438\u043D\u0430\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\\u0423\u041F_\u041C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 3\\Tests\\Test1.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 3\\Tests\\Test1.cs",
+              "ToolTip": "D:\\Users\\\u041C\u0430\u0440\u0438\u043D\u0430\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2 \u043A\u0443\u0440\u0441\\\u0423\u041F_\u041C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 3\\Tests\\Test1.cs",
+              "RelativeToolTip": "..\\..\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 3\\Tests\\Test1.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAANwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T05:43:15.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

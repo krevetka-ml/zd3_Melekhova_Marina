@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Tests/Tests.csproj" />
+  <Project Path="zd3.csproj" />
+</Solution>
